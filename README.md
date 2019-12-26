@@ -1,8 +1,7 @@
 # ASK (laravel+vue)
 
 ## About Project Is Consider a copy Of Ask site that you can ask someone or answering him 
-    https://ask.fm.com
-
+https://ask.fm
 
 ## Installation
 

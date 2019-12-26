@@ -1,0 +1,158 @@
+.brand-image2 {
+    float: left;
+    max-height: 27px;
+    margin-left: 245px;
+
+  }
+
+  .tools
+  {
+      float: left;
+      margin-right: 357px;
+  }
+  .tools i {
+  color:#85858e !important;
+  margin-right: 35px;
+  font-size: 18px;
+}
+.tools i:hover{
+    color:green;
+  }
+
+
+
+.card {
+    position: relative;
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+     flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #ffffff;
+    background-clip: border-box;
+    border: 0 solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.50rem;
+    margin-top: 10px;
+    margin-right: 277px;
+      margin-left: -48px;
+  }
+.card-header {
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 0;
+     background-color:#fff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+.tools .geer .dropdown-menu
+{
+    background-color:#C6304A;
+    border-radius: 7px;
+}
+.tools .geer .dropdown-menu a:hover
+{
+    background-color: #9d263b;
+    color: #fff;
+}
+.send-button {
+    color: #fff;
+    background-color: #ee1144;
+    border-color: #ee1144;
+    padding-inline-end: 60px;
+    padding:6px 40px 6px 40px;
+    border: 2px solid #ee1144;
+    border-radius: 5px;
+    float:right;
+    margin-top:10px;
+    margin-bottom:-10px;
+
+}
+.col-xl, .col-xl-auto, .col-xl-12, .col-xl-11, .col-xl-10, .col-xl-9, .col-xl-8, .col-xl-7, .col-xl-6, .col-xl-5, .col-xl-4, .col-xl-3, .col-xl-2, .col-xl-1, .col-lg, .col-lg-auto, .col-lg-12, .col-lg-11, .col-lg-10, .col-lg-9, .col-lg-8, .col-lg-7, .col-lg-6, .col-lg-5, .col-lg-4, .col-lg-3, .col-lg-2, .col-lg-1, .col-md, .col-md-auto, .col-md-12, .col-md-11, .col-md-10, .col-md-9, .col-md-8, .col-md-7, .col-md-6, .col-md-5, .col-md-4, .col-md-3, .col-md-2, .col-md-1, .col-sm, .col-sm-auto, .col-sm-12, .col-sm-11, .col-sm-10, .col-sm-9, .col-sm-8, .col-sm-7, .col-sm-6, .col-sm-5, .col-sm-4, .col-sm-3, .col-sm-2, .col-sm-1, .col, .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: -190px;
+}
+.col-xl, .col-xl-auto, .col-xl-12, .col-xl-11, .col-xl-10, .col-xl-9, .col-xl-8, .col-xl-7, .col-xl-6, .col-xl-5, .col-xl-4, .col-xl-3, .col-xl-2, .col-xl-1, .col-lg, .col-lg-auto, .col-lg-12, .col-lg-11, .col-lg-10, .col-lg-9, .col-lg-8, .col-lg-7, .col-lg-6, .col-lg-5, .col-lg-4, .col-lg-3, .col-lg-2, .col-lg-1, .col-md, .col-md-auto, .col-md-12, .col-md-11, .col-md-10, .col-md-9, .col-md-8, .col-md-7, .col-md-6, .col-md-5, .col-md-4, .col-md-3, .col-md-2, .col-md-1, .col-sm, .col-sm-auto, .col-sm-12, .col-sm-11, .col-sm-10, .col-sm-9, .col-sm-8, .col-sm-7, .col-sm-6, .col-sm-5, .col-sm-4, .col-sm-3, .col-sm-2, .col-sm-1, .col, .col-auto, .col-12, .col-11, .col-10, .col-9, .col-8, .col-7, .col-6, .col-5, .col-4, .col-3, .col-2, .col-1 {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-left: -79px;
+    margin-top: 11px;
+}
+.info img {
+    vertical-align: middle;
+    border-style: none;
+    height: 40px;
+    margin-right: 10px;
+}
+.info span
+{
+    color:#EEE
+}
+
+
+
+.action
+{
+    margin: 13px 0 -5px -3px;
+}
+.action a
+{
+    margin: 5px 5px 5px 5px;
+}
+.action i
+{
+    color: #85858e;
+}
+.action i:hover
+{
+    color:#ee1144;
+}
+.toggle.ios, .toggle-on.ios, .toggle-off.ios { border-radius: 20px; }
+.toggle.ios .toggle-handle { border-radius: 20px; }
+.toggle.android { border-radius: 0px;}
+.toggle.android .toggle-handle { border-radius: 0px; }
+
+
+ input, textarea {
+    font-family: ProximaNova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #4A4A50;
+    font-size: 14px;
+    -webkit-font-smoothing: subpixel-antialiased;
+
+}
+
+body
+{
+    font-family: ProximaNova, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #4A4A50;
+    font-size: 14px;
+    -webkit-font-smoothing: subpixel-antialiased;
+    background-color:#2b3237;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    z-index:1
+
+}
+.profile-bg
+{
+    background-image:url('./img/user-cover.jpg');
+
+}
+
+.navbar
+{
+    position: fixed;
+     width: 100%;
+      z-index:1;
+      top: 0;
+      margin-bottom: 5px;
+}

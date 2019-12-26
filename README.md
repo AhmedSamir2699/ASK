@@ -1,6 +1,6 @@
 # ASK (laravel+vue)
 
-## About Project Is Consider a copy Of Ask site thae you can ask someone or answering him 
+## About Project Is Consider a copy Of Ask site that you can ask someone or answering him 
     https://ask.fm.com
 
 

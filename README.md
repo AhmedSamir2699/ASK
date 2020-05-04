@@ -1,5 +1,11 @@
 # ASK (laravel+vue)
 
+
+
+## !!!!!!!!(thar are a Screen Shots for Site uploded)!!!!!!!
+
+
+
 ## About Project Is Consider a copy Of Ask site that you can ask someone or answering him 
 https://ask.fm
 

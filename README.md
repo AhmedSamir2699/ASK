@@ -4,7 +4,6 @@
 
 ## !!!!!!!!(there are a Screens about Site)!!!!!!!
 
-![alt text](https://github.com/[AhmedMousa2020]/[ASK]/Screen For site/[branch]/profile.jpg?raw=true)
 
 
 ## About Project Is Consider a copy Of Ask site that you can ask someone or answering him 
